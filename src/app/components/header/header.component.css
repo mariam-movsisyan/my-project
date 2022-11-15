@@ -1,0 +1,24 @@
+.header_section{
+    background-color: #1e025b;
+    padding: 10px 0;
+}
+.header_section .container-fluid {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.navbar-brand span {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 5px;
+}
+.navbar-nav .nav-link {
+    padding: 10px 20px;
+    color: #dbdada;
+    text-align: center;
+    text-transform: uppercase;
+}
+.navbar-nav  .nav-link:hover{
+    color: white
+
+}
